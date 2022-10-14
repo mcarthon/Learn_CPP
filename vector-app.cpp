@@ -102,6 +102,5 @@ int main() {
             cout << "\nYou have exited the app.\n" << endl ;
             break;
         }
-
     }   
 }

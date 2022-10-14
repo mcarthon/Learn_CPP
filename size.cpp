@@ -47,4 +47,5 @@ int main() {
 
     float wage {22.24};
     cout << "Wage is "       << sizeof wage          << " bytes." << endl;
+    
 }
